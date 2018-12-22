@@ -1,5 +1,6 @@
 # TheFirstGame
-Pong marks the beggining of the first generation of video game console in 1972, it's amazing that forty-six years ago you needed an entire team for something that today you can do in your own room in two hours or less isn't it?
+Pong marks the beggining of the first generation of video game console in 1972, it's amazing that forty-six years ago you needed an entire team for something that today you can do in your own room in two hours or less isn't it?\
+That's what you're going to do today using the steps below
 
 ## Setup
   **You will need:**
