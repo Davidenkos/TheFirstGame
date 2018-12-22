@@ -5,6 +5,8 @@ An implementation of the Pong game using Arduino Uno and a 8x8 Matrix.
   **You will need:**
   - One Arduino Uno Board
   - One MAX7219 Driver
+  - One 10 µF Electrolitic Capacitator
+  - One 104 pF Ceramic Capacitator
   - One 1388ASR 8x8 Matrix (also works with 1088AS)  
   - One Button
   - One LCD Display (the game should be order should be able to run without itt)
