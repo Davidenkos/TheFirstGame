@@ -15,4 +15,7 @@ An implementation of the Pong game using Arduino Uno and a 8x8 Matrix.
   - Four Breadboards (if you manage your space with care you need only three of them)
 ## Instructions
 It's literally the easiest game to play\
+### Movement
 To go left you turn the knob to the left and the other way around.
+### Goal
+The first to score three goals on his opponent wins.
