@@ -17,7 +17,7 @@ That's what you're going to do today following the steps below.
   - Three 10k Resistors
   - Four Breadboards (if you manage your space with care you need only three of them)
 ## Instructions
-It's literally the easiest game to play
+It's the first game ever made, so it's very easy to pick up and play.
 ### Movement
 To go left you turn the knob to the left and the other way around.
 ### Goal
