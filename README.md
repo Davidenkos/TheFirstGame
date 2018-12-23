@@ -21,4 +21,4 @@ It's the first game ever made, so it's very easy to pick up and play.
 ### Movement
 To go left you turn the knob to the left and the other way around.
 ### Goal
-The first to score three goals on his opponent wins, but for the purpose of this [video](https://www.youtube.com/) it will only be one goal.
+The first to score three goals on his opponent wins, but for the purpose of this [video](https://www.youtube.com/watch?v=x9SeMFr-97Y&feature=youtu.be) it will only be one goal.
