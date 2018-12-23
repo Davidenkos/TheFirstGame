@@ -191,7 +191,7 @@ int move2 (bool player[8][8], int potentiometer, int pinPotentiometer)
     }
     return potentiometer;
 }
-//Here is the function to move the ball,the ball starts with the direction equal to zero
+//Here is the function to move the ball, the ball starts with the direction equal to zero
 //ballDirections takes values between one and eight, two meaning west, six north, eight east and so forth
 void moveBall ()
 {
