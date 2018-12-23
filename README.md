@@ -12,7 +12,7 @@ That's what you're going to do today following the steps below.
   - One 104 pF Ceramic Capacitator
   - One 1388ASR 8x8 Matrix (also works with 1088AS)  
   - One Button
-  - One LCD Display (the game should be able to run without it)
+  - One LCD Display (the game should be able to run without it, but features like score keeping will be removed)
   - Two Potentiometers
   - Three 10k Resistors
   - Four Breadboards (if you manage your space with care you need only three of them)
